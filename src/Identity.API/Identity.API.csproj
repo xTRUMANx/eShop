@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <UserSecretsId>aspnet-eShopOnContainers.Identity-90487118-103c-4ff0-b9da-e5e26f7ab0c5</UserSecretsId>
+    <ContainerRegistry>localhost:5000</ContainerRegistry>
+    <ContainerRepository>identity-api</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>

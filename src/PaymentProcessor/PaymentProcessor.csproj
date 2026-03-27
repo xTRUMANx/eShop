@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
+    <ContainerRegistry>localhost:5000</ContainerRegistry>
+    <ContainerRepository>payment-processor</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
+    <ContainerRegistry>localhost:5000</ContainerRegistry>
+    <ContainerRepository>order-processor</ContainerRepository>
     <EnableConfigurationBindingGenerator>true</EnableConfigurationBindingGenerator>
     <PublishAot Condition="'$(EnableAotPublishing)' == 'true'">true</PublishAot>
   </PropertyGroup>

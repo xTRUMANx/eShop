@@ -4,6 +4,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UserSecretsId>d1b521ec-3411-4d39-98c6-8509466ed471</UserSecretsId>
+    <ContainerRegistry>localhost:5000</ContainerRegistry>
+    <ContainerRepository>catalog-api</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>

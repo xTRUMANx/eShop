@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <UserSecretsId>2d86f364-a439-47c5-9468-3b85a7d9a18e</UserSecretsId>
+    <ContainerRegistry>localhost:5000</ContainerRegistry>
+    <ContainerRepository>webapp</ContainerRepository>
     <Nullable>enable</Nullable>
     <RootNamespace>eShop.WebApp</RootNamespace>
 
